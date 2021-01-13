@@ -5,7 +5,7 @@ I successfully completed this project for HanesBrands at the National Champion A
 
 ![Screen Shot 2020-08-02 at 7 57 28 PM](https://user-images.githubusercontent.com/47016027/89136027-8452f680-d4ff-11ea-84d8-1ecd535e252d.png)
 # Introduction
-The goal of this project is to predict a 13-week demand for Champion's new products and identify whether the products will succeed or fail online vs their Bricks & Mortar stores and how soon success or failure can be spotted in order to make plans accordingly.
+The Champion Brand is a subsidiary of Hanesbrands which was spun off by the Sara Lee Corporation in 2006. Champion is an American manufacturer of clothing that specializes in sportswear. The company plans on launching 20 new fashion products in March 2020 at its Brick & Mortar stores and online. The Champion team wants to know the 13-week projected demand for these products and whether the product will succeed or fail and how soon success or failure can be spotted in order to make plans accordingly. They also want to know if the products will perform differently across online and brick & mortar channels.
 # Methodology
 We built three different models:
 1.	Seasonal Naive: This method is like the naive method but predicts the last observed value of the same season of the year. This method works for highly seasonal data like my dataset.
